@@ -1,5 +1,8 @@
 {
-	"Today will be" : [ "rainy or not", "sunny or not", "a soccer game or not", "the day or not" ],
+	"You": ["are right but also wrong", "may be right or maybe wrong", "can live for 90 years or maybe can't"],
 	"You are going to": [ "be rich or not", "die or not", "start a business or not", "fall or not"],
-	"Trump will be": [ "", ]
+	"Today will be" : [ "rainy or not", "sunny or not", "a soccer game or not", "the day or not" ],
+	"There will be": [ "" ],
+	"Trump will be": [ "" ],
+	"Today is the birthday of": ["Selena Gomez or not", "Justin biber or not"] 
 }
