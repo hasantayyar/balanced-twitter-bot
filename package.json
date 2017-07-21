@@ -1,0 +1,24 @@
+{
+  "name": "balanced-twitter-bot",
+  "version": "1.0.0",
+  "description": "false dichotomy fallacy generator twitter bot",
+  "main": "app.js",
+  "dependencies": {
+    "config": "^1.26.1",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasantayyar/balanced-twitter-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasantayyar/balanced-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/hasantayyar/balanced-twitter-bot#readme"
+}
