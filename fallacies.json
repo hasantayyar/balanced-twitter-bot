@@ -1,8 +1,10 @@
-{
-	"You": ["are right but also wrong", "may be right or maybe wrong", "can live for 90 years or maybe can't"],
-	"You are going to": [ "be rich or not", "die or not", "start a business or not", "fall or not"],
-	"Today will be" : [ "rainy or not", "sunny or not", "a soccer game or not", "the day or not" ],
-	"There will be": [ "" ],
-	"Trump will be": [ "" ],
-	"Today is the birthday of": ["Selena Gomez or not", "Justin biber or not"] 
-}
+[
+	{ "starts": ["You"], "rest": [ "are right but also wrong", "may be right or maybe wrong", "can live for 90 years or maybe can't"]},
+	{ "starts": ["You are going to"], "rest": [ "be rich or not", "die or not", "start a business or not", "fall or not"]},
+	{ "starts": ["Today will be" ], "rest": [ "rainy or not", "sunny or not", "a soccer game or not", "the day or not" ]},
+	{ "starts": ["There will be", "There might be"], "rest": [ "storm soon or there won't", "a world war III or not", "a nuclear war or not" ]},
+	{ "starts": ["Trump will", "Putin will"], "rest": [ "be elected again or he won't" ]},
+	{ "starts": ["Today is the birthday of"], "rest": ["Selena Gomez or not", "Justin biber or not"]},
+	{ "starts": ["There is two possibilities"], "rest": [ " 1. Korea will fire a nuclear bomb. 2. Korea won't fire a nuclear bomb"]},
+	{ "starts" : ["Sweden", "Ukraine", "Russia", "France"], "rest" : ["will win the Eurovision or they won't win. That's it."] }
+]
